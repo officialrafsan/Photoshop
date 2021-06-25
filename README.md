@@ -3,7 +3,7 @@ Adobe Photoshop™ Source Code
 
 Thomas Knoll, John Knol, Steve Guttman & Russell Brown  | Photoshop™ version 1.0.1
 
-This material is Copyright © 1989-90 Adobe Systems Incorporated
+All Rights Reserved | This material is Copyright © 1989-90 Adobe Systems Incorporated 
 
 1. Grant of License. Conditioned upon your compliance with the terms and conditions of this Agreement, the Museum grants you a non-exclusive and non-transferable license for a single user, solely for your individual, personal and non-commercial purposes, (a) to load and install the Software; (b) to compile, modify and create modifications or enhancements of the Software or any of its components (“Derivative Works”); and © to run the Software or Derivative Works on simulators or hardware. The Museum and its licensors reserve all rights in the Software not expressly granted to you in this Agreement.
 
